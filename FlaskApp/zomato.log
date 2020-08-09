@@ -1,0 +1,5 @@
+2020-08-09 20:59:10,843 Plese enter a valid url
+2020-08-09 20:59:11,577 127.0.0.1 - - [09/Aug/2020 20:59:11] "[32mPOST /process HTTP/1.1[0m" 302 -
+2020-08-09 20:59:11,594 127.0.0.1 - - [09/Aug/2020 20:59:11] "[37mGET / HTTP/1.1[0m" 200 -
+2020-08-09 20:59:11,756 127.0.0.1 - - [09/Aug/2020 20:59:11] "[33mGET /fonts/poppins/Poppins-Regular.ttf HTTP/1.1[0m" 404 -
+2020-08-09 21:00:44,492  * Detected change in '/home/rahul/Downloads/FlaskLogin/FlaskApp/zomato.py', reloading

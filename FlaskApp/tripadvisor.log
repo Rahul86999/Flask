@@ -1,0 +1,89 @@
+2020-08-09 21:05:48,017 POST http://127.0.0.1:54939/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": ["--ignore-certificate-errors", "--incognito", "--headless"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": ["--ignore-certificate-errors", "--incognito", "--headless"]}}}
+2020-08-09 21:05:48,021 Starting new HTTP connection (1): 127.0.0.1:54939
+2020-08-09 21:05:49,015 http://127.0.0.1:54939 "POST /session HTTP/1.1" 200 680
+2020-08-09 21:05:49,016 Finished Request
+2020-08-09 21:05:49,017 POST http://127.0.0.1:54939/session/c8ac0dc94c8abd10530a0995068bb9ac/url {"url": "https://www.tripadvisor.com/Search?q=Mohali&ssrc=e&rf=1"}
+2020-08-09 21:05:55,373 http://127.0.0.1:54939 "POST /session/c8ac0dc94c8abd10530a0995068bb9ac/url HTTP/1.1" 200 14
+2020-08-09 21:05:55,374 Finished Request
+2020-08-09 21:05:55,374 GET http://127.0.0.1:54939/session/c8ac0dc94c8abd10530a0995068bb9ac/source {}
+2020-08-09 21:05:55,575 http://127.0.0.1:54939 "GET /session/c8ac0dc94c8abd10530a0995068bb9ac/source HTTP/1.1" 200 728738
+2020-08-09 21:05:55,598 Finished Request
+2020-08-09 21:05:57,839 None
+2020-08-09 21:05:57,853 https://www.tripadvisor.com/Search?q=Mohali&ssrc=e&o=0
+2020-08-09 21:05:58,866 POST http://127.0.0.1:60819/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": ["--ignore-certificate-errors", "--incognito", "--headless"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": ["--ignore-certificate-errors", "--incognito", "--headless"]}}}
+2020-08-09 21:05:58,868 Starting new HTTP connection (1): 127.0.0.1:60819
+2020-08-09 21:05:59,133 http://127.0.0.1:60819 "POST /session HTTP/1.1" 200 680
+2020-08-09 21:05:59,134 Finished Request
+2020-08-09 21:05:59,135 POST http://127.0.0.1:60819/session/a6a8a4dc2aa93f5fcda828a1cb561e30/url {"url": "https://www.tripadvisor.com/Search?q=Mohali&ssrc=e&o=0"}
+2020-08-09 21:06:05,359 http://127.0.0.1:60819 "POST /session/a6a8a4dc2aa93f5fcda828a1cb561e30/url HTTP/1.1" 200 14
+2020-08-09 21:06:05,360 Finished Request
+2020-08-09 21:06:05,362 GET http://127.0.0.1:60819/session/a6a8a4dc2aa93f5fcda828a1cb561e30/source {}
+2020-08-09 21:06:05,706 http://127.0.0.1:60819 "GET /session/a6a8a4dc2aa93f5fcda828a1cb561e30/source HTTP/1.1" 200 568508
+2020-08-09 21:06:05,721 Finished Request
+2020-08-09 21:06:07,850 https://www.tripadvisor.com/Search?q=Mohali&ssrc=e&o=30
+2020-08-09 21:06:08,866 POST http://127.0.0.1:59059/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": ["--ignore-certificate-errors", "--incognito", "--headless"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": ["--ignore-certificate-errors", "--incognito", "--headless"]}}}
+2020-08-09 21:06:08,868 Starting new HTTP connection (1): 127.0.0.1:59059
+2020-08-09 21:06:09,144 http://127.0.0.1:59059 "POST /session HTTP/1.1" 200 680
+2020-08-09 21:06:09,145 Finished Request
+2020-08-09 21:06:09,146 POST http://127.0.0.1:59059/session/76c91aea477f1f19678e5fbe01eed14f/url {"url": "https://www.tripadvisor.com/Search?q=Mohali&ssrc=e&o=30"}
+2020-08-09 21:06:15,281 http://127.0.0.1:59059 "POST /session/76c91aea477f1f19678e5fbe01eed14f/url HTTP/1.1" 200 14
+2020-08-09 21:06:15,282 Finished Request
+2020-08-09 21:06:15,283 GET http://127.0.0.1:59059/session/76c91aea477f1f19678e5fbe01eed14f/source {}
+2020-08-09 21:06:15,436 http://127.0.0.1:59059 "GET /session/76c91aea477f1f19678e5fbe01eed14f/source HTTP/1.1" 200 568568
+2020-08-09 21:06:15,455 Finished Request
+2020-08-09 21:06:15,718 127.0.0.1 - - [09/Aug/2020 21:06:15] "[37mGET / HTTP/1.1[0m" 200 -
+2020-08-09 21:06:15,970 127.0.0.1 - - [09/Aug/2020 21:06:15] "[33mGET /fonts/poppins/Poppins-Regular.ttf HTTP/1.1[0m" 404 -
+2020-08-09 21:06:17,602 https://www.tripadvisor.com/Search?q=Mohali&ssrc=e&o=60
+2020-08-09 21:06:18,617 POST http://127.0.0.1:45907/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": ["--ignore-certificate-errors", "--incognito", "--headless"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": ["--ignore-certificate-errors", "--incognito", "--headless"]}}}
+2020-08-09 21:06:18,618 Starting new HTTP connection (1): 127.0.0.1:45907
+2020-08-09 21:06:18,864 http://127.0.0.1:45907 "POST /session HTTP/1.1" 200 680
+2020-08-09 21:06:18,865 Finished Request
+2020-08-09 21:06:18,866 POST http://127.0.0.1:45907/session/793fb0e908b2a0fd0f259a04a3c7e5a4/url {"url": "https://www.tripadvisor.com/Search?q=Mohali&ssrc=e&o=60"}
+2020-08-09 21:06:21,124 Plese enter a valid url
+2020-08-09 21:06:21,128 127.0.0.1 - - [09/Aug/2020 21:06:21] "[32mPOST /process HTTP/1.1[0m" 302 -
+2020-08-09 21:06:21,148 127.0.0.1 - - [09/Aug/2020 21:06:21] "[37mGET / HTTP/1.1[0m" 200 -
+2020-08-09 21:06:21,342 127.0.0.1 - - [09/Aug/2020 21:06:21] "[33mGET /fonts/poppins/Poppins-Regular.ttf HTTP/1.1[0m" 404 -
+2020-08-09 21:06:23,931 http://127.0.0.1:45907 "POST /session/793fb0e908b2a0fd0f259a04a3c7e5a4/url HTTP/1.1" 200 14
+2020-08-09 21:06:23,932 Finished Request
+2020-08-09 21:06:23,932 GET http://127.0.0.1:45907/session/793fb0e908b2a0fd0f259a04a3c7e5a4/source {}
+2020-08-09 21:06:24,268 http://127.0.0.1:45907 "GET /session/793fb0e908b2a0fd0f259a04a3c7e5a4/source HTTP/1.1" 200 727216
+2020-08-09 21:06:24,289 Finished Request
+2020-08-09 21:06:26,529 https://www.tripadvisor.com/Search?q=Mohali&ssrc=e&o=90
+2020-08-09 21:06:27,548 POST http://127.0.0.1:46515/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": ["--ignore-certificate-errors", "--incognito", "--headless"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": ["--ignore-certificate-errors", "--incognito", "--headless"]}}}
+2020-08-09 21:06:27,550 Starting new HTTP connection (1): 127.0.0.1:46515
+2020-08-09 21:06:27,811 http://127.0.0.1:46515 "POST /session HTTP/1.1" 200 680
+2020-08-09 21:06:27,812 Finished Request
+2020-08-09 21:06:27,812 POST http://127.0.0.1:46515/session/5dd18374040cc1968908fd247da1fec2/url {"url": "https://www.tripadvisor.com/Search?q=Mohali&ssrc=e&o=90"}
+2020-08-09 21:06:33,520 Hisar
+2020-08-09 21:06:33,552 Starting new HTTPS connection (1): api.serpwow.com:443
+2020-08-09 21:06:35,966 http://127.0.0.1:46515 "POST /session/5dd18374040cc1968908fd247da1fec2/url HTTP/1.1" 200 14
+2020-08-09 21:06:35,967 Finished Request
+2020-08-09 21:06:35,968 GET http://127.0.0.1:46515/session/5dd18374040cc1968908fd247da1fec2/source {}
+2020-08-09 21:06:36,115 http://127.0.0.1:46515 "GET /session/5dd18374040cc1968908fd247da1fec2/source HTTP/1.1" 200 724198
+2020-08-09 21:06:36,132 Finished Request
+2020-08-09 21:06:38,381 https://www.tripadvisor.com/Search?q=Mohali&ssrc=e&o=120
+2020-08-09 21:06:39,394 POST http://127.0.0.1:60275/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": ["--ignore-certificate-errors", "--incognito", "--headless"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": ["--ignore-certificate-errors", "--incognito", "--headless"]}}}
+2020-08-09 21:06:39,396 Starting new HTTP connection (1): 127.0.0.1:60275
+2020-08-09 21:06:40,099 http://127.0.0.1:60275 "POST /session HTTP/1.1" 200 680
+2020-08-09 21:06:40,101 Finished Request
+2020-08-09 21:06:40,101 POST http://127.0.0.1:60275/session/4b1601918d124e5effc564c609f02305/url {"url": "https://www.tripadvisor.com/Search?q=Mohali&ssrc=e&o=120"}
+2020-08-09 21:06:49,608 http://127.0.0.1:60275 "POST /session/4b1601918d124e5effc564c609f02305/url HTTP/1.1" 200 14
+2020-08-09 21:06:49,609 Finished Request
+2020-08-09 21:06:49,611 GET http://127.0.0.1:60275/session/4b1601918d124e5effc564c609f02305/source {}
+2020-08-09 21:06:49,761 http://127.0.0.1:60275 "GET /session/4b1601918d124e5effc564c609f02305/source HTTP/1.1" 200 703442
+2020-08-09 21:06:49,776 Finished Request
+2020-08-09 21:06:50,336 https://api.serpwow.com:443 "GET /live/search?q=Restaurant&search_type=places&page=1&gl=us&hl=en&location=Hisar&google_domain=google.com&device=desktop&num=20&output=json&source=python&api_key=9F234651FA4E458697C8227C42A090B0 HTTP/1.1" 200 None
+2020-08-09 21:06:51,267 Starting new HTTPS connection (1): api.serpwow.com:443
+2020-08-09 21:06:52,046 https://www.tripadvisor.com/Search?q=Mohali&ssrc=e&o=150
+2020-08-09 21:06:53,067 POST http://127.0.0.1:46173/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": ["--ignore-certificate-errors", "--incognito", "--headless"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": ["--ignore-certificate-errors", "--incognito", "--headless"]}}}
+2020-08-09 21:06:53,069 Starting new HTTP connection (1): 127.0.0.1:46173
+2020-08-09 21:06:53,660 http://127.0.0.1:46173 "POST /session HTTP/1.1" 200 680
+2020-08-09 21:06:53,661 Finished Request
+2020-08-09 21:06:53,662 POST http://127.0.0.1:46173/session/89652b9501d641bb81a04016bd34790b/url {"url": "https://www.tripadvisor.com/Search?q=Mohali&ssrc=e&o=150"}
+2020-08-09 21:06:59,011 https://api.serpwow.com:443 "GET /live/search?q=Restaurant&search_type=places&page=2&gl=us&hl=en&location=Hisar&google_domain=google.com&device=desktop&num=20&output=json&source=python&api_key=9F234651FA4E458697C8227C42A090B0 HTTP/1.1" 200 None
+2020-08-09 21:06:59,047 http://127.0.0.1:46173 "POST /session/89652b9501d641bb81a04016bd34790b/url HTTP/1.1" 200 14
+2020-08-09 21:06:59,048 Finished Request
+2020-08-09 21:06:59,049 GET http://127.0.0.1:46173/session/89652b9501d641bb81a04016bd34790b/source {}
+2020-08-09 21:06:59,374 http://127.0.0.1:46173 "GET /session/89652b9501d641bb81a04016bd34790b/source HTTP/1.1" 200 700227
+2020-08-09 21:06:59,416 Finished Request
+2020-08-09 21:07:00,148  * Detected change in '/home/rahul/Downloads/FlaskLogin/FlaskApp/tripadvisor.py', reloading

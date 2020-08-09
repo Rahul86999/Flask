@@ -1,0 +1,22 @@
+2020-08-01 16:57:47,959 https://www.yelp.com/search?find_desc=Restaurants&find_loc=usa&ns1000&start=0
+2020-08-01 16:57:54,327 hi
+2020-08-01 16:57:59,330 https://www.yelp.com/search?find_desc=Restaurants&find_loc=usa&ns1000&start=30
+2020-08-01 16:58:08,328 hi
+2020-08-01 16:58:13,334 https://www.yelp.com/search?find_desc=Restaurants&find_loc=usa&ns1000&start=60
+2020-08-01 16:58:22,593 hi
+2020-08-01 16:58:27,598 https://www.yelp.com/search?find_desc=Restaurants&find_loc=usa&ns1000&start=90
+2020-08-01 16:58:38,710 hi
+2020-08-01 16:58:43,715 https://www.yelp.com/search?find_desc=Restaurants&find_loc=usa&ns1000&start=120
+2020-08-01 16:58:45,804 127.0.0.1 - - [01/Aug/2020 16:58:45] "[37mGET / HTTP/1.1[0m" 200 -
+2020-08-01 16:58:45,958 127.0.0.1 - - [01/Aug/2020 16:58:45] "[33mGET /fonts/poppins/Poppins-Regular.ttf HTTP/1.1[0m" 404 -
+2020-08-01 16:58:52,774 hi
+2020-08-01 16:58:54,930 Plese enter a valid url
+2020-08-01 16:58:54,930 Plese enter a valid url
+2020-08-01 16:58:54,936 127.0.0.1 - - [01/Aug/2020 16:58:54] "[32mPOST /process HTTP/1.1[0m" 302 -
+2020-08-01 16:58:54,956 127.0.0.1 - - [01/Aug/2020 16:58:54] "[37mGET /success?download=zomato_csv HTTP/1.1[0m" 200 -
+2020-08-01 16:58:57,778 https://www.yelp.com/search?find_desc=Restaurants&find_loc=usa&ns1000&start=150
+2020-08-01 16:59:05,446 hi
+2020-08-01 16:59:10,449 https://www.yelp.com/search?find_desc=Restaurants&find_loc=usa&ns1000&start=180
+2020-08-01 16:59:18,159 hi
+2020-08-01 16:59:23,162 https://www.yelp.com/search?find_desc=Restaurants&find_loc=usa&ns1000&start=210
+2020-08-01 16:59:25,354  * Detected change in '/home/rahul/Downloads/FlaskLogin/FlaskApp/zomato.py', reloading
